@@ -5,7 +5,7 @@ O bootcamp Python AI Backend Developer da VIVO, curso dominando Python desafia s
 
 ## Desenvolvimento
 
-Utilizei o código-base fornecido no Git Hub e modifiquei as nomenclaturas de opções que o usuário digita e criei a opçõa de PIX, muito utilizada pelos clientes nos bancos.
+Utilizei o código-base fornecido no Git Hub e modifiquei as nomenclaturas de opções que o usuário escolhe no sistemas e criei a opção de PIX, muito utilizada hoje em dia pelos clientes nos bancos.
 
 ## Funcionalidades do código
 
