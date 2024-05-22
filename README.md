@@ -12,7 +12,10 @@ Utilizei o código-base fornecido no Git Hub e modifiquei as nomenclaturas de op
 - Variáveis;
 - Operadores lógicos;
 - Estruturas de repetição (while);
-- Estruturas condicionais (if, else, elif).
+- Estruturas condicionais (if, else, elif);
+- Utilização de dicionários;
+- Objetos;
+- Métodos.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/isabelapereiraf26)
